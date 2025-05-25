@@ -82,4 +82,4 @@ MNIST Dataset
 TensorFlow Documentation
 
 🧑‍💻 Author
-Built with ❤️ by [Your Name]
+Built with ❤️ by @GabrielABSouza
